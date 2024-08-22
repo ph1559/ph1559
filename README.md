@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ph1559
-- 👀 I’m interested in py, R and Rust
+- 👀 I’m interested in py and R
 - 🌱 I’m currently learning all avalible tools for data analysis, data engineering and data science
 - 💞️ I’m looking to collaborate on those project
 - 📫 PM me here
